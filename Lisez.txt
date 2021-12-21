@@ -1,0 +1,15 @@
+Codes caméra :
+	Configuration : python_camera/sample_camera_info.py
+	Acquisition : python_camera/sample_retrieve_depth_image.py
+
+Codes réseau de neurones
+	Code du reseau : Code_RNN.py
+	Code affichage matrice : Test_Affichage.py
+	Ebauche de code d'acquisition de donnees : Acquisition_donnees.py
+
+
+codes de la carte Nvidia Jetson TX2 :
+	utilisateur : nvidia
+	mdp : nvidia
+
+Carte connectée par wifi sur eduroam
